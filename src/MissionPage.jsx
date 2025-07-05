@@ -25,7 +25,7 @@ export default function MissionPage() {
   return (
     <div style={{ padding: '1.5rem', maxWidth: '900px', margin: '0 auto' }}>
       <h1 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '1.5rem' }}>
-        Mission Tree: Post-Scarcity Infrastructure
+        Mission : Post-Scarcity Infrastructure
       </h1>
       <TreeNode label="Regenerative Civilization Infrastructure">
         <TreeNode label="1. Data Intelligence Layer">
